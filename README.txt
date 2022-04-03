@@ -1,0 +1,2 @@
+The purpose of this repository is to help shed light on my coding style for potential employers to view.
+If you are one of those people, thank you for visiting! If you aren't, welcome anyway! I hope you enjoy your stay :)
